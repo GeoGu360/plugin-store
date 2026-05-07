@@ -1,7 +1,7 @@
 ---
 name: lido-plugin
 description: Stake ETH with Lido liquid staking protocol to receive stETH, manage withdrawals, and track staking rewards. Supports staking, balance queries, withdrawal requests, withdrawal status, and claiming finalized withdrawals on Ethereum mainnet.
-version: "0.2.8"
+version: "0.2.9"
 author: GeoGu360
 ---
 
